@@ -32,6 +32,7 @@ public class SmokeTest {
 //			System.out.println("open Firefox");
 //		}
 		dr.get(prop.getProperty("url"));
+		System.out.println("newphone");
 	}
 	
 	
